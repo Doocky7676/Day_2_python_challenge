@@ -12,7 +12,7 @@ print(7**3)
 # Task 4: Given a list of numbers:
 numbers = [23, 89, 12, 54, 92, 65, 71, 13, 45]
 # Use the max() and min() functions to find the highest and lowest number respectively.
-print(min([23, 89, 12, 54, 92, 65, 71, 13, 45]))
+print(min(numbers))
 print(max([23, 89, 12, 54, 92, 65, 71, 13, 45]))
 # Task 5: Round the number 12.5678 to 2 decimal places.
 print(round(12.5678))
